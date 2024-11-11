@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1577258242 source:c:\users\chris\documents\engineering stuff\cc++\christmas\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<dos.h>
+
